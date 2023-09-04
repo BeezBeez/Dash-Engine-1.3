@@ -3,7 +3,7 @@
 
 ***It is recommended to have some prior knowledge with navigating and using Unreal Engine 5 to get the most out of DashEngine 1.3.***
 
-***This fork support the latest Unreal Engine 5.x versions.***
+***This fork support the latest Unreal Engine >=5.2 versions.***
 
 # Dash Engine 1.3
 
